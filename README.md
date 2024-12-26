@@ -54,7 +54,7 @@ npm run dev
 The app will be live on http://localhost:5173.
 Special thanks to Jonas Schmedtmann for his amazing tutorials and guidance, which inspired the development of this project.
 
-![DASHBOARD](![screencapture-localhost-5173-dashboard-2024-12-26-13_17_27](https://github.com/user-attachments/assets/844f8210-463f-4078-ae38-5ce89bd7eee7)
+![DASHBOARD](![file:///C:/Users/ProBook/Downloads/screencapture-localhost-5173-dashboard-2024-12-26-13_17_27.jpg
 )
 
 ![](![screencapture-localhost-5173-dashboard-2024-12-26-13_17_46](https://github.com/user-attachments/assets/0be2cdd3-e4a1-4877-ac6f-b82b99c8b73b)
